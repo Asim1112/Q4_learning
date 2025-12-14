@@ -54,7 +54,7 @@ https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 |-------------|----------------------------------------------------------------------------------------------------------------|
 | Gemini      | https://ai-native.panaversity.org/docs/AI-Tool-Landscape/claude-code-features-and-workflows/free-claude-setup |
 | Deepseek    | https://github.com/Mohsinraza23/Claude-Code-Gemini-Full-Setup                                                   |
-| Qwen        | https://github.com/DanielHashmi/Q4_learning/blob/main/spec-driven-development/tutorials/How%20to%20Use%20Claude%20Code%20with%20Qwen%20models%20for%20Free%20on%20Linux%20and%20macOS%20(sh%20and%20bash).md |
+| Qwen        | https://github.com/Asim1112/Q4_learning/blob/main/spec-driven-development/How%20to%20Use%20Claude%20Code%20with%20Qwen%20models%20for%20Free%20on%20Linux%20and%20macOS%20(sh%20and%20bash).md |
 | Bonsai        | https://docs.trybons.ai/bonsai-cli                                                                             |
 
 ### Architecture
@@ -77,7 +77,7 @@ https://medium.com/google-cloud/gemini-cli-tutorial-series-77da7d494718
 
 ### Claude Code Cheat Sheet
 
-https://github.com/DanielHashmi/Q4_learning/blob/main/spec-driven-development/tutorials/%F0%9F%9A%80%20The%20Ultimate%20Claude%20Code%20CheatSheet.md
+https://github.com/Asim1112/Q4_learning/blob/main/spec-driven-development/%F0%9F%9A%80%20The%20Ultimate%20Claude%20Code%20CheatSheet.md
 
 ---
 
